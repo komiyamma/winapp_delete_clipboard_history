@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWwF/5Ebg0s=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\master\\source\\repos\\ConsoleApp10\\DeleteClipBardHistory\\DeleteClipBoardHistory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.4\\microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.4\\microsoft.netcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.4\\microsoft.aspnetcore.app.runtime.win-x64.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.4.nupkg.sha512",
+    "C:\\Users\\master\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

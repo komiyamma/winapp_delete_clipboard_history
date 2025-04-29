@@ -1,0 +1,17 @@
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.exe
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.deps.json
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.runtimeconfig.json
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.dll
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.pdb
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net9.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleA.CEDFF6D4.Up2Date
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.dll
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\refint\ConsoleApp10.dll
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.pdb
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ConsoleApp10.genruntimeconfig.cache
+C:\Users\master\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net9.0-windows10.0.19041.0\ref\ConsoleApp10.dll
